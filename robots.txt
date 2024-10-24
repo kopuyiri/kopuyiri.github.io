@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kopuyiri.github.io/sitemap/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/BEU/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/ygb/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/ulA/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/fDA/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/Reg/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/kxj/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/lEx/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/ZmW/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/AxB/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/aiD/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/bXQ/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/YxK/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/eJl/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/NeO/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/aWr/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/tmn/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/jlt/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/LyK/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/KdZ/sitemap_index.kopuyiri
+Sitemap: https://kopuyiri.github.io/XNb/sitemap_index.kopuyiri
